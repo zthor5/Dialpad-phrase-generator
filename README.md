@@ -1,7 +1,8 @@
 # Dialpad Phrase Generator
 A prompt for using Gemini to generate memorable phrases from phone numbers based on telephone keypad letters. 
 
-![Simple Logo](./AI_image_logo.png)
+<img src="./assets/your-image.png" alt="Simple Logo of a Rotary phone" width="30%">
+
 
 
 ## Prompt Used
